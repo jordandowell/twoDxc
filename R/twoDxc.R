@@ -519,3 +519,4 @@ convert.2drt <- function(rt, mod.time, dead.time = 0) {
   rt.2d <- rt.adj - (mod.time * floor(rt.adj / mod.time))
   return(rt.2d)
 }
+

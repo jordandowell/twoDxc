@@ -11,3 +11,4 @@ install_github('jmorim/twoDxc')
 
 # Usage
 See the included vignette at vignettes/twoDxc.html
+
